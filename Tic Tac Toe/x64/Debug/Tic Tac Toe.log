@@ -1,0 +1,6 @@
+﻿  Tic Tac Toe.cpp
+C:\Users\olivi\OneDrive\Área de Trabalho\7 - Construção do Portifólio\Github Repositories\C++\Tic Tac Toe\Tic Tac Toe.cpp(75,52): error C2601: 'print_tic_tac_toe': local function definitions are illegal
+C:\Users\olivi\OneDrive\Área de Trabalho\7 - Construção do Portifólio\Github Repositories\C++\Tic Tac Toe\Tic Tac Toe.cpp(10): message : this line contains a '{' which has not yet been matched
+C:\Users\olivi\OneDrive\Área de Trabalho\7 - Construção do Portifólio\Github Repositories\C++\Tic Tac Toe\Tic Tac Toe.cpp(83,12): error C2601: 'main': local function definitions are illegal
+C:\Users\olivi\OneDrive\Área de Trabalho\7 - Construção do Portifólio\Github Repositories\C++\Tic Tac Toe\Tic Tac Toe.cpp(10): message : this line contains a '{' which has not yet been matched
+C:\Users\olivi\OneDrive\Área de Trabalho\7 - Construção do Portifólio\Github Repositories\C++\Tic Tac Toe\Tic Tac Toe.cpp(10): fatal error C1075: '{': no matching token found
